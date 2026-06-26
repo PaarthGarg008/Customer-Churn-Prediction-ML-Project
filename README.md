@@ -52,6 +52,7 @@ Target Variable:
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+* Google Colab
 
 ---
 
